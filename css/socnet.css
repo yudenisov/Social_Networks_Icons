@@ -1,0 +1,342 @@
+﻿#social-16c {
+	text-align: center;
+}
+#social-16c .search-icon {
+	width: 16px;
+	height: 16px;
+	background: url(../img/Search.16x16.png) no-repeat;
+	display: inline-block;
+	margin-right: 1px;
+}
+#social-16c .blog-icon {
+	width: 16px;
+	height: 16px;
+	background: url(../img/Blogs.16x16.png) no-repeat;
+	display: inline-block;
+	margin-right: 1px;
+}
+#social-16c .social-icon {
+	width: 16px;
+	height: 16px;
+	background: url(../img/Socnet.16x16.png) no-repeat;
+	display: inline-block;
+	margin-right: 1px;
+}
+#social-16c .google-search {
+	background-position: 0 0;
+}
+#social-16c .yandex-search {
+	background-position: -16px 0;
+}
+#social-16c .bing-search {
+	background-position: -32px 0;
+}
+#social-16c .duckduckgo {
+	background-position: -48px 0;
+}
+#social-16c .yahoo {
+	background-position: -65px 0;
+}
+#social-16c .wordpress {
+	background-position: 0 0;
+}
+#social-16c .livejournal {
+	background-position: -15px 0;
+}
+#social-16c .flickr {
+	background-position: -30px 0;
+}
+#social-16c .twitter1 {
+	background-position: -45px 0;
+}
+#social-16c .twitter2 {
+	background-position: -60px 0;
+}
+#social-16c .youtube {
+	background-position: -76px 0;
+}
+#social-16c .vimeo {
+	background-position: -91px 0;
+}
+#social-16c .googlephoto {
+	background-position: -106px 0;
+}
+#social-16c .instagram {
+	background-position: -122px 0;
+}
+#social-16c .facebook {
+	background-position: 0 0;
+}
+#social-16c .google-plus {
+	background-position: -16px 0;
+}
+#social-16c .vkontakte {
+	background-position: -32px 0;
+}
+#social-16c .odnoklassniki {
+	background-position: -48px 0;
+}
+#social-16c .moimir {
+	background-position: -64px 0;
+}
+#social-48c {
+	text-align: center;
+}
+#social-48c .search-icon {
+	width: 48px;
+	height: 48px;
+	background: url(../img/Search.48x48.png) no-repeat;
+	display: inline-block;
+	margin-right: 1px;
+}
+#social-48c .blog-icon {
+	width: 48px;
+	height: 48px;
+	background: url(../img/Blogs.48x48.png) no-repeat;
+	display: inline-block;
+	margin-right: 1px;
+}
+#social-48c .social-icon {
+	width: 48px;
+	height: 48px;
+	background: url(../img/Socnet.48x48.png) no-repeat;
+	display: inline-block;
+	margin-right: 1px;
+}
+#social-48c .google-search {
+	background-position: 0 0;
+}
+#social-48c .yandex-search {
+	background-position: -48px 0;
+}
+#social-48c .bing-search {
+	background-position: -96px 0;
+}
+#social-48c .duckduckgo {
+	background-position: -144px 0;
+}
+#social-48c .yahoo {
+	background-position: -192px 0;
+}
+#social-48c .wordpress {
+	background-position: -1 0;
+}
+#social-48c .livejournal {
+	background-position: -48px 0;
+}
+#social-48c .flickr {
+	background-position: -95px 0;
+}
+#social-48c .twitter1 {
+	background-position: -143px 0;
+}
+#social-48c .twitter2 {
+	background-position: -190px 0;
+}
+#social-48c .youtube {
+	background-position: -238px 0;
+}
+#social-48c .vimeo {
+	background-position: -285px 0;
+}
+#social-48c .googlephoto {
+	background-position: -333px 0;
+}
+#social-48c .instagram {
+	background-position: -381px 0;
+}
+#social-48c .facebook {
+	background-position: 0 0;
+}
+#social-48c .google-plus {
+	background-position: -48px 0;
+}
+#social-48c .vkontakte {
+	background-position: -96px 0;
+}
+#social-48c .odnoklassniki {
+	background-position: -143px 0;
+}
+#social-48c .moimir {
+	background-position: -192px 0;
+}
+#social-top {
+	text-align: center;
+}
+#social-top .mail-icon {
+	width: 32px;
+	height: 32px;
+	background: url(../img/Mails.32x32.png) no-repeat;
+	display: inline-block;
+	margin-right: 1px;
+}
+#social-top .empty_space {
+	width: 32px;
+	height: 32px;
+	display: inline-block;
+	margin-right: 1px;
+}
+#social-top .search-icon {
+	width: 32px;
+	height: 32px;
+	background: url(../img/Search.32x32.png) no-repeat;
+	display: inline-block;
+	margin-right: 1px;
+}
+#social-top .blog-icon {
+	width: 32px;
+	height: 32px;
+	background: url(../img/Blogs.32x32.png) no-repeat;
+	display: inline-block;
+	margin-right: 1px;
+}
+#social-top .social-icon {
+	width: 32px;
+	height: 32px;
+	background: url(../img/Socnet.32x32.png) no-repeat;
+	display: inline-block;
+	margin-right: 1px;
+}
+#social-top .lateread-icon {
+	width: 32px;
+	height: 32px;
+	background: url(../img/Lateread.32x32.png) no-repeat;
+	display: inline-block;
+	margin-right: 1px;
+}
+#social-top .post-mailru {
+	background-position: 0 0;
+}
+#social-top .yandex-mail {
+	background-position: -31px 0;
+}
+#social-top .google-mail {
+	background-position: -63px 0;
+}
+#social-top .google-search {
+	background-position: 0 0;
+}
+#social-top .yandex-search {
+	background-position: -32px 0;
+}
+#social-top .bing-search {
+	background-position: -64px 0;
+}
+#social-top .duckduckgo {
+	background-position: -96px 0;
+}
+#social-top .yahoo {
+	background-position: -128px 0;
+}
+#social-top .wordpress {
+	background-position: 0 0;
+}
+#social-top .livejournal {
+	background-position: -31px 0;
+}
+#social-top .flickr {
+	background-position: -63px 0;
+}
+#social-top .twitter1 {
+	background-position: -95px 0;
+}
+#social-top .twitter2 {
+	background-position: -126px 0;
+}
+#social-top .youtube {
+	background-position: -157px 0;
+}
+#social-top .vimeo {
+	background-position: -189px 0;
+}
+#social-top .googlephoto {
+	background-position: -220px 0;
+}
+#social-top .instagram {
+	background-position: -252px 0;
+}
+#social-top .facebook {
+	background-position: 0 0;
+}
+#social-top .google-plus {
+	background-position: -32px 0;
+}
+#social-top .vkontakte {
+	background-position: -64px 0;
+}
+#social-top .odnoklassniki {
+	background-position: -96px 0;
+}
+#social-top .moimir {
+	background-position: -127px 0;
+}
+#social-top .delicious {
+	background-position: 0 0;
+}
+#social-top .pinboard {
+	background-position: -32px 0;
+}
+#social-top .evernote {
+	background-position: -64px 0;
+}
+#social-plash { 
+	float: left; 
+	margin-left: 20px; 
+	width: 130px; 
+} 
+#social-plash .social-icon { 
+	width: 32px; 
+	height: 32px; 
+	background: url(../img/Socnet.32x32.png) no-repeat; 
+	display: inline-block; 
+	margin-right: 8px; 
+} 
+#social-plash .social-icon-small { 
+	width: 16px; 
+	height: 16px; 
+	background: url(../img/Blogs.16x16.png) no-repeat; 
+	display: inline-block; 
+	margin: 5px 6px 0 0; 
+} 
+#social-plash .wordpress {
+	background-position: 0 0;
+}
+#social-plash .livejournal {
+	background-position: -15px 0;
+}
+#social-plash .flickr {
+	background-position: -30px 0;
+}
+#social-plash .twitter1 {
+	background-position: -45px 0;
+}
+#social-plash .twitter2 {
+	background-position: -60px 0;
+}
+#social-plash .youtube {
+	background-position: -76px 0;
+}
+#social-plash .vimeo {
+	background-position: -91px 0;
+}
+#social-plash .googlephoto {
+	background-position: -106px 0;
+}
+#social-plash .instagram {
+	background-position: -122px 0;
+}
+#social-plash .facebook {
+	background-position: 0 0;
+}
+#social-plash .google-plus {
+	background-position: -32px 0;
+}
+#social-plash .vkontakte {
+	background-position: -64px 0;
+}
+#social-plash .odnoklassniki {
+	background-position: -96px 0;
+}
+#social-plash .moimir {
+	background-position: -127px 0;
+}

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="PHP Runtime" type="php">
+        <CLASSES>
+          <root url="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard" />
+        </CLASSES>
+        <SOURCES>
+          <root url="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="PHP" type="php">
+        <CLASSES>
+          <root url="file://$USER_HOME$/vendor/behat/behat" />
+          <root url="file://$USER_HOME$/vendor/behat/gherkin" />
+          <root url="file://$USER_HOME$/vendor/behat/transliterator" />
+          <root url="file://$USER_HOME$/vendor/composer" />
+          <root url="file://$USER_HOME$/vendor/container-interop/container-interop" />
+          <root url="file://$USER_HOME$/vendor/doctrine/instantiator" />
+          <root url="file://$USER_HOME$/vendor/pdepend/pdepend" />
+          <root url="file://$USER_HOME$/vendor/phpdocumentor/reflection-common" />
+          <root url="file://$USER_HOME$/vendor/phpdocumentor/reflection-docblock" />
+          <root url="file://$USER_HOME$/vendor/phpdocumentor/type-resolver" />
+          <root url="file://$USER_HOME$/vendor/phpmd/phpmd" />
+          <root url="file://$USER_HOME$/vendor/phpspec/php-diff" />
+          <root url="file://$USER_HOME$/vendor/phpspec/phpspec" />
+          <root url="file://$USER_HOME$/vendor/phpspec/prophecy" />
+          <root url="file://$USER_HOME$/vendor/psr/log" />
+          <root url="file://$USER_HOME$/vendor/sebastian/comparator" />
+          <root url="file://$USER_HOME$/vendor/sebastian/diff" />
+          <root url="file://$USER_HOME$/vendor/sebastian/exporter" />
+          <root url="file://$USER_HOME$/vendor/sebastian/recursion-context" />
+          <root url="file://$USER_HOME$/vendor/symfony/class-loader" />
+          <root url="file://$USER_HOME$/vendor/symfony/config" />
+          <root url="file://$USER_HOME$/vendor/symfony/console" />
+          <root url="file://$USER_HOME$/vendor/symfony/debug" />
+          <root url="file://$USER_HOME$/vendor/symfony/dependency-injection" />
+          <root url="file://$USER_HOME$/vendor/symfony/event-dispatcher" />
+          <root url="file://$USER_HOME$/vendor/symfony/filesystem" />
+          <root url="file://$USER_HOME$/vendor/symfony/finder" />
+          <root url="file://$USER_HOME$/vendor/symfony/polyfill-mbstring" />
+          <root url="file://$USER_HOME$/vendor/symfony/process" />
+          <root url="file://$USER_HOME$/vendor/symfony/translation" />
+          <root url="file://$USER_HOME$/vendor/symfony/yaml" />
+          <root url="file://$USER_HOME$/vendor/webmozart/assert" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$USER_HOME$/vendor/behat/behat" />
+          <root url="file://$USER_HOME$/vendor/behat/gherkin" />
+          <root url="file://$USER_HOME$/vendor/behat/transliterator" />
+          <root url="file://$USER_HOME$/vendor/composer" />
+          <root url="file://$USER_HOME$/vendor/container-interop/container-interop" />
+          <root url="file://$USER_HOME$/vendor/doctrine/instantiator" />
+          <root url="file://$USER_HOME$/vendor/pdepend/pdepend" />
+          <root url="file://$USER_HOME$/vendor/phpdocumentor/reflection-common" />
+          <root url="file://$USER_HOME$/vendor/phpdocumentor/reflection-docblock" />
+          <root url="file://$USER_HOME$/vendor/phpdocumentor/type-resolver" />
+          <root url="file://$USER_HOME$/vendor/phpmd/phpmd" />
+          <root url="file://$USER_HOME$/vendor/phpspec/php-diff" />
+          <root url="file://$USER_HOME$/vendor/phpspec/phpspec" />
+          <root url="file://$USER_HOME$/vendor/phpspec/prophecy" />
+          <root url="file://$USER_HOME$/vendor/psr/log" />
+          <root url="file://$USER_HOME$/vendor/sebastian/comparator" />
+          <root url="file://$USER_HOME$/vendor/sebastian/diff" />
+          <root url="file://$USER_HOME$/vendor/sebastian/exporter" />
+          <root url="file://$USER_HOME$/vendor/sebastian/recursion-context" />
+          <root url="file://$USER_HOME$/vendor/symfony/class-loader" />
+          <root url="file://$USER_HOME$/vendor/symfony/config" />
+          <root url="file://$USER_HOME$/vendor/symfony/console" />
+          <root url="file://$USER_HOME$/vendor/symfony/debug" />
+          <root url="file://$USER_HOME$/vendor/symfony/dependency-injection" />
+          <root url="file://$USER_HOME$/vendor/symfony/event-dispatcher" />
+          <root url="file://$USER_HOME$/vendor/symfony/filesystem" />
+          <root url="file://$USER_HOME$/vendor/symfony/finder" />
+          <root url="file://$USER_HOME$/vendor/symfony/polyfill-mbstring" />
+          <root url="file://$USER_HOME$/vendor/symfony/process" />
+          <root url="file://$USER_HOME$/vendor/symfony/translation" />
+          <root url="file://$USER_HOME$/vendor/symfony/yaml" />
+          <root url="file://$USER_HOME$/vendor/webmozart/assert" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="PHARS">
+        <CLASSES>
+          <root url="phar://$USER_HOME$/vendor/symfony/dependency-injection/Tests/Fixtures/includes/ProjectWithXsdExtensionInPhar.phar/" />
+        </CLASSES>
+        <SOURCES>
+          <root url="phar://$USER_HOME$/vendor/symfony/dependency-injection/Tests/Fixtures/includes/ProjectWithXsdExtensionInPhar.phar/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>

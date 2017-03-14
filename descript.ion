@@ -1,0 +1,8 @@
+.idea -- configuration directory for some HTML editors (none mandatory)
+css -- directory with css files (required for project)
+descript.ion -- this file of catalog description
+example.html -- file with demo of social icons
+img -- directory with image files (required for project)
+_vti_cnf -- catalog with editing history (none mandatory)
+LICENSE.md -- file with license description
+README.md -- file with a project description, installation and using instructions
